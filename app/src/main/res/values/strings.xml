@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">prFinal</string>
+    <string name="action_settings">Settings</string>
+    <string name="UNADECA">UNADECA</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="guardar">Save</string>
+    <string name="Comentario">Comentario</string>
+    <string name="autor">Autor</string>
+    <string name="nombre">Nombre</string>
+    <string name="Guardar">Guardar</string>
+    <string name="loginerror">¡¡ERROR!!</string>
+    <string name="tryregister">Registrese todos los datos</string>
+    <string name="loogout">Cerrar Session</string>
+    <string name="app_register">Registrar</string>
+    <string name="app_login">Login</string>
+    <string name="ImagenPrevia">Imagen Previa</string>
+    <string name="agregarimagen">Agregar Imagen</string>
+    <string name="Proyecto">Proyecto Progra 3</string>
+    <string name="app_Galeria">GaleriaFA</string>
+</resources>
